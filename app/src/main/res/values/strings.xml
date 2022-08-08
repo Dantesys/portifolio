@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="ok">OK</string>
+    <string name="img_user">User image</string>
+    <string name="busca">Search</string>
+    <string name="send_to">Send to</string>
+    <string name="erro">Could not access the server</string>
+</resources>

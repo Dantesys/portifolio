@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portfólio</string>
+    <string name="ok">OK</string>
+    <string name="img_user">Imagem do usuário</string>
+    <string name="busca">Buscar</string>
+    <string name="send_to">Enviar para</string>
+    <string name="erro">Não foi possível acessar o servidor</string>
+</resources>
